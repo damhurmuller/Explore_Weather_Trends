@@ -29,7 +29,7 @@ The generated files were saved in the directory `data/`. Contains two files with
 After the wrangling process, the datasets were combined to generated one master dataset to work with.
 
 
-![alt text](https://github.com/damhurmuller/Explore_Weather_Trends/images/final.png "Title")
+![alt text](https://github.com/damhurmuller/Explore_Weather_Trends/tree/master/images "Title")
 
 
 ## Summary
